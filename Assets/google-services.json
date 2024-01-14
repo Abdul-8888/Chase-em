@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607248644654",
+    "project_id": "catch--em-f6ffd",
+    "storage_bucket": "catch--em-f6ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607248644654:android:80506b0fbc8e659e8bbdbf",
+        "android_client_info": {
+          "package_name": "com.firebaseanalytic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjExkTz5dbT58aZ_RQ5IvJ2yNtTw3rdRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
