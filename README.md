@@ -1,2 +1,2 @@
 # Chase-em
-A 10+ levels puzzle game developed in Unity.
+A 10+ levels mobile puzzle game developed in Unity.
